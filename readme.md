@@ -18,8 +18,8 @@ Es importante mencionar que el código no será público.
 
 - Laravel 10
 - Laravel WebSocket
-- Pusher JS
 - Laravel Echo
+- Pusher JS
 - Inertia JS
 - React v18
 - React Icons
